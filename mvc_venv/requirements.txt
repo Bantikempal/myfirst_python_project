@@ -1,0 +1,2 @@
+# Standard SQLite3 is part of Python's standard library, no need to install it separately.
+# Example of additional libraries for SQLite:
